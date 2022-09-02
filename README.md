@@ -29,4 +29,4 @@ I have experience in Python and C++ programming. Currently focused on machine le
 
 #### Work Experience
 
-* 2021 - research assistant in Saint-Petersburg State University 
+* 2021-2022 - research assistant in Saint-Petersburg State University 
