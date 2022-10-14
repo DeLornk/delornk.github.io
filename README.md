@@ -30,3 +30,6 @@ I have experience in Python and C++ programming. Currently focused on machine le
 #### Work Experience
 
 * 2021-2022 - research assistant in Saint-Petersburg State University 
+
+#### Hackatons:
+* VTB More.Tech 4.0 - https://moretech.vtb.ru/, Data track
